@@ -1,0 +1,6 @@
+framework module upraxis_ios_extensions {
+  umbrella header "upraxis_ios_extensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
